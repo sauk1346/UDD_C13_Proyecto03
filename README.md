@@ -8,8 +8,9 @@
 - [2. Desarrollo](#2-desarrollo)
     - [2.1. `index.html`](#21-indexhtml)
     - [2.2. `styles.css`](#22-stylescss)
-- [3. Conclusión](#3-conclusión)
-- [4. Referencias](#4-referencias)
+- [3. Pruebas](#3-pruebas)
+- [4. Conclusión](#4-conclusión)
+- [5. Referencias](#4-referencias)
 
 
 
@@ -358,7 +359,15 @@ Permite ordenar los elementos mediante cajas, por medio del modelo de diseño `F
 
 Se declaran distintos elementos con jerarquía `padres`. Éstos, traspasarán sus propiedades a sus respectivos `hijos`. 
 
-# 3. Conclusión
+# 3. Pruebas
+
+Se realiza una publicación del proyecto, utilizando el servicio 'Github pages'.
+
+<https://sauk1346.github.io/UDD_C13_Proyecto03/>
+
+El link muestra el resultado final.
+
+# 4. Conclusión
 Este proyecto permitió entender la complejidad de diseñar una página que sea informativa, atractiva, y que no sature con mucha información.
 
 Sinceramente es uno de los proyectos más dificiles hasta ahora, ya que no sólo implica programación, sino también habilidades blandas, habilidades de diseño gráfico, ingeniería social, y técnicas de marketing, necesarias para que el proyecto sea llamativo e interesante para los consumidores.
@@ -369,4 +378,5 @@ Sinceramente es uno de los proyectos más dificiles hasta ahora, ya que no sólo
 - Youtube@KikoPalomares: [Curso de FlexBox CSS desde Cero](https://www.youtube.com/watch?v=WaWSucOblUA&list=PLnunbwZjHqMPmEk0fj_QIqVjGK0Cb0C8Q)
 - Excalidraw.com: [Pizarra online](https://excalidraw.com/)
 - WikiHow: [Cómo agregar el símbolo de marca registrada HTML](https://es.wikihow.com/agregar-el-s%C3%ADmbolo-de-marca-registrada-en-HTML)
+- Youtube@ProgramacionAccesible: [Cómo publicar un sitio web con Github pages](https://www.youtube.com/watch?v=sLTNgxxSBR4)
 - ZeroChan: [Galería Imágenes VideoJuego 'Nier:Automata'](https://www.zerochan.net/2213614#full)
